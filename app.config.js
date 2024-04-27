@@ -3,7 +3,7 @@ export default {
     name: "expo-app-boilerplate",
     slug: "expo-app-boilerplate",
     version: "1.0.0",
-    orientation: "portrait",
+    orientation: "default",
     icon: "./assets/icon.png",
     userInterfaceStyle: "light",
     splash: {
